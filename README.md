@@ -6,4 +6,4 @@
 
 ## 🕹️ 언어
 - 🤔 Javascript, C++, Python
-- 😄 react
+
